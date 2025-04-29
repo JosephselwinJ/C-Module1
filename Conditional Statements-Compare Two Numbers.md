@@ -32,3 +32,4 @@ x is equal to y.
 
 === Code Execution Successful ===
 ## Result
+C program to read values of x and y and print whether x == y or x != y using an if-else statement is written

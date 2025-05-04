@@ -14,6 +14,7 @@ If x is equal to y, print "X is equal to Y".
 If x is not equal to y, print "X is NOT equal to Y".
 
 ## Program
+```
 #include <stdio.h>
 int main()
 {
@@ -24,12 +25,11 @@ int main()
     else if(x!=y)
     printf("x is NOT equal to y.");
 }
-
+```
 
 ## Output
-1 1
-x is equal to y.
+![image](https://github.com/user-attachments/assets/9197149c-ae3b-40d3-be3a-35b1f3418f56)
 
-=== Code Execution Successful ===
+
 ## Result
 C program to read values of x and y and print whether x == y or x != y using an if-else statement is written

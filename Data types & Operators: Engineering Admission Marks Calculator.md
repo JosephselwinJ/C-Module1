@@ -36,3 +36,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/61973378-fea3-4056-878b-ce73167ea769)
 
 ## Result
+C program to calculate the **total**, **average**, and **percentage** of three subject marks for engineering admission is written.
